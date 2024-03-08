@@ -1,12 +1,13 @@
 import Header from "./sections/Header.jsx";
+import Main from "./sections/Main.jsx";
 
 export default function Home() {
   return (
-    <div className="w-100">
+    <div className="w-full ">
       {/* header */}
       <Header />
       {/* main */}
-      <main></main>
+      <Main />
       {/* imgs */}
       <div></div>
       {/* resources */}
