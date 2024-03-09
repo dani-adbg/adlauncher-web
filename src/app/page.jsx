@@ -2,10 +2,11 @@ import Header from "./sections/Header.jsx";
 import Main from "./sections/Main.jsx";
 import Info from "./sections/Info.jsx";
 import Resources from "./sections/Resources.jsx";
+import Footer from "./sections/Footer.jsx";
 
 export default function Home() {
   return (
-    <div className="w-full ">
+    <div className="w-full">
       {/* header */}
       <Header />
       {/* main */}
@@ -15,7 +16,7 @@ export default function Home() {
       {/* resources */}
       <Resources />
       {/* footer */}
-      <footer></footer>
+      <Footer />
     </div>
   );
 }
