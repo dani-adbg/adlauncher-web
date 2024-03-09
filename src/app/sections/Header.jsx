@@ -9,7 +9,7 @@ export default function Header() {
           alt="Logo Img"
           height={100}
           width={100}
-          className="w-12"
+          className="w-11"
         />
         <span>ADLauncher</span>
       </div>

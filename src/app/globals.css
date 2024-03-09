@@ -10,5 +10,5 @@
 }
 
 .header-list {
-  @apply w-32 flex items-center justify-center hover:bg-plata hover:cursor-pointer hover:text-black h-full transition ease-linear delay-200 rounded-full;
+  @apply w-32 flex items-center justify-center hover:bg-black hover:cursor-pointer h-full transition ease-linear delay-200 rounded-full;
 }
