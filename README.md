@@ -1,36 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# ADLauncher Web
 
-## Getting Started
+ADLauncher es un proyecto de código abierto creado con la intención de proporcionar al jugador una forma alternativa sin costo para jugar Minecraft hasta que pueda comprar el juego.
 
-First, run the development server:
+## Más
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+El proyecto ADLauncher está compuesto por:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- `adlauncher-core` el núcleo del launcher.
+- `ADLauncher` el lanzador disponible con y sin interfaz gráfica.
+- `ADLauncher-web` web oficial del lanzador, con los enlaces directos de descarga.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Support
 
-## Learn More
+Si necesitas ayuda, tienes alguna sugerencia o encontraste un error, accede a nuestro Discord y dínoslo de inmediato.
 
-To learn more about Next.js, take a look at the following resources:
+[![Discord](https://dcbadge.vercel.app/api/server/a93w5NpBR9)](https://discord.gg/a93w5NpBR9)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@dani_adbg)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Project developed by: `dani_adbg`
